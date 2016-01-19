@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # example helloworld.py
 # http://www.pygtk.org/pygtk2tutorial/examples/helloworld.py
+# May 24, 2004 ... 	April 13, 2005
 
 import pygtk
 pygtk.require('2.0')
